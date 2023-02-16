@@ -1,6 +1,5 @@
 package com.jsp.person_adhar_jdbc_crud_one_to_one.dto;
 
-//this is adhar class
 public class Adhar {
 
 	private long adharNumber;
